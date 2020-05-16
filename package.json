@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/simmonsth/restaurant_page.git"
+    "url": "git+https://github.com/simmonsth/restaurant_site.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/simmonsth/restaurant_page/issues"
+    "url": "https://github.com/simmonsth/restaurant_site/issues"
   },
-  "homepage": "https://github.com/simmonsth/restaurant_page#readme",
+  "homepage": "https://simmonsth.github.io/restaurant_site",
   "devDependencies": {
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.11",
