@@ -32,7 +32,7 @@ var displayContact = function() {
     para.id = 'contactPara';
     document.getElementById('contactInfo').appendChild(para);
     para.innerHTML = `
-    Tel: 1.800.NETHBBQ<br>
+    Tel: 1.555.NETHBBQ<br>
     <br>
     321 Fatality lane<br>
     Nether World City, Netherworld<br>
