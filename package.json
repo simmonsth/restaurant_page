@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/simmonsth/restaurant_page/issues"
   },
-  "homepage": "https://github.com/simmonsth/restaurant_page",
+  "homepage": "https://simmonsth.github.io/restaurant_page",
   "devDependencies": {
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.11",
