@@ -1,0 +1,210 @@
+html {
+    min-height: 100%;
+    position: relative;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    margin: 0;
+    background-image: url(close-up-photo-of-man-cooking-meat-1482803.jpg);
+}
+
+#header {
+    position: relative;
+    height: 175px;
+    margin: auto;
+    border: 1px solid transparent;
+    border-bottom-color: rgb(168, 168, 168);
+    background-color: black;
+    color: white;
+    font-family: 'Creepster', cursive;
+    font-size: 56px;
+    opacity: .8;
+}
+
+#menuDiv {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+#logo {
+    display: grid;
+    grid-template-columns: 250px auto auto;
+    grid-gap: 20px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.logoEl2 {
+    grid-column-start: 2;
+    bottom: 0;
+    left: 0;
+}
+
+img {
+    height: 140px;
+}
+
+#bbqName {
+    font-family: 'Pacifico', cursive;
+}
+
+button {
+    font-size: 60px;
+    background-color: transparent;
+    color: rgb(163, 163, 163);
+    border: 0px;
+    font-family: 'Creepster', cursive;
+    font-weight: bold;
+    margin-right: 30px;
+    bottom: 0;
+}
+
+button:hover {
+    font-size: 72px;
+    color: rgb(184, 0, 0);
+    border: 1px solid;
+    border-left-color: tomato;
+    border-top-color: tomato;
+    border-right-color: tomato;
+    border-bottom-color: transparent;
+    height: 60px;
+    transition: font-size .3s, color .7s, height .3s;
+}
+
+#tsung {
+    font-family: 'Creepster', cursive;
+    color: rgb(255, 255, 255);
+    font-size: 36px;
+    font-weight: bolder;
+    text-shadow: 1px 1px rgb(100, 100, 100);
+    top: 0;
+}
+
+#aboutContainer {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 25px;
+    padding-top: 0px;
+    grid-gap: 40px;
+    width: 50%;
+    margin: auto;
+    margin-top: 0px;
+    background-color: black;
+    color: white;
+    border: 1px solid transparent;
+    border-top-color: tomato;
+    opacity: .8;
+    position: absolute;
+    top: 176px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+    align-content: center;
+}
+
+#ownerPic {
+    margin-top: 30px;
+    width: 400px;
+    height: auto;
+    border: 1px solid gray;
+}
+
+#aboutInfo {
+    margin-top: 0px;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+#welcomeSlogan {
+    font-family: 'Cedarville cursive', cursive;
+    font-size: 42px;
+    font-weight: lighter;
+    width: 50%;
+    margin: auto;
+    margin-top: 300px;
+    border: 1px solid transparent;
+    border-top-color: tomato;
+    color: white;
+    text-shadow: 2px 2px black;
+    position: absolute;
+    top: 175px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+    vertical-align: auto;
+    text-align: center;
+    
+}
+
+#contactContainer {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 25px;
+    padding-top: 0px;
+    grid-gap: 40px;
+    width: 50%;
+    margin: auto;
+    margin-top: 0px;
+    background-color: black;
+    color: white;
+    border: 1px solid transparent;
+    border-top-color: tomato;
+    opacity: .8;
+    position: absolute;
+    top: 176px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+    align-content: center;
+}
+
+#contactInfo {
+    margin-top: 0px;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+#storePic {
+    margin-top: 30px;
+    width: 575px;
+    height: auto;
+    border: 1px solid gray;
+}
+
+#menuContainer {
+    padding: 25px;
+    padding-top: 0px;
+    width: 50%;
+    margin: auto;
+    margin-top: 0px;
+    background-color: black;
+    color: white;
+    border: 1px solid transparent;
+    border-top-color: tomato;
+    opacity: .8;
+    position: absolute;
+    top: 176px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+    align-content: center;
+}
+
+#menuInfo {
+    margin-top: 75px;
+    margin-left: 12.5%;
+    line-height: 30px;
+}
+
+#menuPara {
+    text-align: left;
+    font-size: 24px;
+}
