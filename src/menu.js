@@ -45,7 +45,7 @@ var displayMenu = function() {
     Sheeva's Bomb Ass Pork.....................................................$10 playte<br>
     (Marinated for 48 hours in Sindel's tears)<br>
     <br>
-    METAL MEAT........................................................................Free<br>
+    Roasted Circuit Boards.........................................................Free<br>
     (Cyrax Special)
     `;
 }

@@ -1,13 +1,10 @@
 {
-  "name": "restaurant_page",
+  "name": "restaurant_site",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack --progress",
-    "watch": "webpack --progress --watch",
-    "server": "webpack-dev-server --open"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -19,10 +16,9 @@
   "bugs": {
     "url": "https://github.com/simmonsth/restaurant_site/issues"
   },
-  "homepage": "https://simmonsth.github.io/restaurant_site",
+  "homepage": "https://github.com/simmonsth/restaurant_site#readme",
   "devDependencies": {
     "webpack": "^4.43.0",
-    "webpack-cli": "^3.3.11",
-    "webpack-dev-server": "^3.11.0"
+    "webpack-cli": "^3.3.11"
   }
 }
